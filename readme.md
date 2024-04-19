@@ -1,4 +1,4 @@
-![프로젝트 소개](https://github.com/voxmvnt/XwenA/blob/main/dacon_intro.jpg)
+![프로젝트 소개](https://github.com/voxmvnt/traffic_analytics/blob/main/capture.jpg)
 
 ## 👨‍🏫 프로젝트 소개 
 - 객체탐지 기술을 활용한 고속도로 교통량 측정
